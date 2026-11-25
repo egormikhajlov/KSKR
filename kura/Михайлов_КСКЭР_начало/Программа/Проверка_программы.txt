@@ -1,0 +1,38 @@
+25.11.2026
+Команда: python -m unittest discover -s tests -v
+
+test_config_roundtrip_and_unknown_field (test_flowprep.ExportTests.test_config_roundtrip_and_unknown_field) ... ok
+test_duplicate_grid (test_flowprep.ExportTests.test_duplicate_grid) ... ok
+test_reject_geometry_in_series (test_flowprep.ExportTests.test_reject_geometry_in_series) ... ok
+test_series_and_blank_results (test_flowprep.ExportTests.test_series_and_blank_results) ... ok
+test_defaults (test_flowprep.GeometryTests.test_defaults) ... ok
+test_horizontal_rectangle (test_flowprep.GeometryTests.test_horizontal_rectangle) ... ok
+test_id_changes_with_geometry (test_flowprep.GeometryTests.test_id_changes_with_geometry) ... ok
+test_negative_or_nonfinite (test_flowprep.GeometryTests.test_negative_or_nonfinite) ... ok
+test_numeric_representation_keeps_same_id (test_flowprep.GeometryTests.test_numeric_representation_keeps_same_id) ... ok
+test_probe_upstream (test_flowprep.GeometryTests.test_probe_upstream) ... ok
+test_rotated_area (test_flowprep.GeometryTests.test_rotated_area) ... ok
+test_thickness (test_flowprep.GeometryTests.test_thickness) ... ok
+test_wall_intersection (test_flowprep.GeometryTests.test_wall_intersection) ... ok
+test_angle_and_pressure_from_fixture (test_flowprep.ImportTests.test_angle_and_pressure_from_fixture) ... ok
+test_duplicate_id (test_flowprep.ImportTests.test_duplicate_id) ... ok
+test_mass_imbalance (test_flowprep.ImportTests.test_mass_imbalance) ... ok
+test_missing_cases (test_flowprep.ImportTests.test_missing_cases) ... ok
+test_nan (test_flowprep.ImportTests.test_nan) ... ok
+test_negative_loss (test_flowprep.ImportTests.test_negative_loss) ... ok
+test_no_convergence (test_flowprep.ImportTests.test_no_convergence) ... ok
+test_target_not_met (test_flowprep.ImportTests.test_target_not_met) ... ok
+test_unknown_id (test_flowprep.ImportTests.test_unknown_id) ... ok
+test_wrong_inlet_flow (test_flowprep.ImportTests.test_wrong_inlet_flow) ... ok
+test_integrated_flow (test_flowprep.ReferenceTests.test_integrated_flow) ... ok
+test_invalid_profile_resolution (test_flowprep.ReferenceTests.test_invalid_profile_resolution) ... ok
+test_pressure_gradient_equation (test_flowprep.ReferenceTests.test_pressure_gradient_equation) ... ok
+test_pressure_scales_with_viscosity (test_flowprep.ReferenceTests.test_pressure_scales_with_viscosity) ... ok
+test_reference_independent_of_baffle_angle (test_flowprep.ReferenceTests.test_reference_independent_of_baffle_angle) ... ok
+test_values (test_flowprep.ReferenceTests.test_values) ... ok
+test_wall_boundary_and_symmetry (test_flowprep.ReferenceTests.test_wall_boundary_and_symmetry) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.170s
+
+OK

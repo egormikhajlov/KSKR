@@ -1,0 +1,14 @@
+{
+  "model": "plane_poiseuille_empty_channel",
+  "baffle_flow_computed": false,
+  "hydraulic_diameter_m": 0.08,
+  "reynolds": 532.1546961325967,
+  "max_velocity_m_s": 0.15000000000000002,
+  "flow_per_unit_span_m2_s": 0.004,
+  "mass_flow_per_unit_span_kg_s_m": 0.004816,
+  "pressure_drop_pa": 0.00543,
+  "wall_shear_pa": 0.00027150000000000004,
+  "darcy_friction_factor": 0.18039867109634553,
+  "approx_entrance_length_m": 2.1286187845303868,
+  "warnings": []
+}

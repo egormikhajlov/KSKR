@@ -1,0 +1,17 @@
+{
+  "length_m": 0.4,
+  "height_m": 0.04,
+  "center_x_m": 0.14,
+  "center_y_m": 0.02,
+  "chord_m": 0.02,
+  "thickness_m": 0.001,
+  "angle_deg": 30.0,
+  "mean_velocity_m_s": 0.1,
+  "density_kg_m3": 1.204,
+  "viscosity_pa_s": 1.81e-05,
+  "minimum_gap_m": 0.002,
+  "probe_x_m": 0.2,
+  "target_angle_deg": 20.0,
+  "angle_tolerance_deg": 5.0,
+  "mass_tolerance": 0.001
+}

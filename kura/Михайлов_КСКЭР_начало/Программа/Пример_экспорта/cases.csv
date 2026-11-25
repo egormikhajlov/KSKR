@@ -1,0 +1,16 @@
+﻿case_id,angle_deg,chord_m,status
+case_c0966e7318a6,15.0,0.012,prepared_not_solved
+case_bb59d4be4aea,15.0,0.02,prepared_not_solved
+case_096db42eb9f6,15.0,0.028,prepared_not_solved
+case_1d14cb59ddbb,30.0,0.012,prepared_not_solved
+case_2a3b6eab602c,30.0,0.02,prepared_not_solved
+case_2fd56aa05f45,30.0,0.028,prepared_not_solved
+case_c573d5a672e7,45.0,0.012,prepared_not_solved
+case_74da1e0a3409,45.0,0.02,prepared_not_solved
+case_3c10e4c6855c,45.0,0.028,prepared_not_solved
+case_6cc3e19eda56,60.0,0.012,prepared_not_solved
+case_843566b9238d,60.0,0.02,prepared_not_solved
+case_4ebb9b96e508,60.0,0.028,prepared_not_solved
+case_9107ed9b17fb,75.0,0.012,prepared_not_solved
+case_4b1a98d4a386,75.0,0.02,prepared_not_solved
+case_8cd2d46c0454,75.0,0.028,prepared_not_solved

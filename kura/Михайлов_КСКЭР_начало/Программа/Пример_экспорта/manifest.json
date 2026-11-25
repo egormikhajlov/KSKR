@@ -1,0 +1,115 @@
+{
+  "version": "0.1.0",
+  "created_at": "2026-11-25T14:40:49.488695+03:00",
+  "parameters": {
+    "length_m": 0.4,
+    "height_m": 0.04,
+    "center_x_m": 0.14,
+    "center_y_m": 0.02,
+    "chord_m": 0.02,
+    "thickness_m": 0.001,
+    "angle_deg": 30.0,
+    "mean_velocity_m_s": 0.1,
+    "density_kg_m3": 1.204,
+    "viscosity_pa_s": 1.81e-05,
+    "minimum_gap_m": 0.002,
+    "probe_x_m": 0.2,
+    "target_angle_deg": 20.0,
+    "angle_tolerance_deg": 5.0,
+    "mass_tolerance": 0.001
+  },
+  "cases": [
+    {
+      "case_id": "case_c0966e7318a6",
+      "angle_deg": 15.0,
+      "chord_m": 0.012,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_bb59d4be4aea",
+      "angle_deg": 15.0,
+      "chord_m": 0.02,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_096db42eb9f6",
+      "angle_deg": 15.0,
+      "chord_m": 0.028,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_1d14cb59ddbb",
+      "angle_deg": 30.0,
+      "chord_m": 0.012,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_2a3b6eab602c",
+      "angle_deg": 30.0,
+      "chord_m": 0.02,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_2fd56aa05f45",
+      "angle_deg": 30.0,
+      "chord_m": 0.028,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_c573d5a672e7",
+      "angle_deg": 45.0,
+      "chord_m": 0.012,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_74da1e0a3409",
+      "angle_deg": 45.0,
+      "chord_m": 0.02,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_3c10e4c6855c",
+      "angle_deg": 45.0,
+      "chord_m": 0.028,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_6cc3e19eda56",
+      "angle_deg": 60.0,
+      "chord_m": 0.012,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_843566b9238d",
+      "angle_deg": 60.0,
+      "chord_m": 0.02,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_4ebb9b96e508",
+      "angle_deg": 60.0,
+      "chord_m": 0.028,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_9107ed9b17fb",
+      "angle_deg": 75.0,
+      "chord_m": 0.012,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_4b1a98d4a386",
+      "angle_deg": 75.0,
+      "chord_m": 0.02,
+      "status": "prepared_not_solved"
+    },
+    {
+      "case_id": "case_8cd2d46c0454",
+      "angle_deg": 75.0,
+      "chord_m": 0.028,
+      "status": "prepared_not_solved"
+    }
+  ],
+  "rejected": [],
+  "note": "Расчёты течения с заслонкой и поиск оптимума ещё не выполнены"
+}

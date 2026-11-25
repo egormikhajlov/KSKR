@@ -1,0 +1,58 @@
+{
+  "case_id": "case_1d14cb59ddbb",
+  "status": "prepared_not_solved",
+  "parameters": {
+    "length_m": 0.4,
+    "height_m": 0.04,
+    "center_x_m": 0.14,
+    "center_y_m": 0.02,
+    "chord_m": 0.012,
+    "thickness_m": 0.001,
+    "angle_deg": 30.0,
+    "mean_velocity_m_s": 0.1,
+    "density_kg_m3": 1.204,
+    "viscosity_pa_s": 1.81e-05,
+    "minimum_gap_m": 0.002,
+    "probe_x_m": 0.2,
+    "target_angle_deg": 20.0,
+    "angle_tolerance_deg": 5.0,
+    "mass_tolerance": 0.001
+  },
+  "vertices_m": [
+    [
+      0.13505384757729338,
+      0.016566987298107783
+    ],
+    [
+      0.14544615242270664,
+      0.02256698729810778
+    ],
+    [
+      0.14494615242270664,
+      0.023433012701892218
+    ],
+    [
+      0.13455384757729338,
+      0.01743301270189222
+    ]
+  ],
+  "boundaries": {
+    "inlet": {
+      "type": "fully_developed_velocity",
+      "ux": "6*Umean*(y/H)*(1-y/H)",
+      "uy": 0
+    },
+    "outlet": {
+      "type": "pressure_outlet",
+      "gauge_pressure_pa": 0
+    },
+    "walls": {
+      "type": "no_slip"
+    },
+    "baffle": {
+      "type": "stationary_no_slip"
+    },
+    "probe_x_m": 0.2
+  },
+  "ansys_execution": "not_implemented_in_this_release"
+}

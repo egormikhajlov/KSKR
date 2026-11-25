@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<rect width="1000" height="300" fill="white"/>
+<g font-family="Arial" font-size="16" fill="#15263b">
+<text x="60" y="30">Параметрическая схема канала и заслонки</text>
+<svg x="0" y="35" width="1000" height="180" viewBox="0 0 1000 184.0">
+<rect x="60" y="75" width="840.0" height="84.0" fill="#edf5fc" stroke="#202d3a" stroke-width="2"/>
+<polygon points="329.064,132.609 379.986,103.209 378.936,101.391 328.014,130.791" fill="#f5b65b" stroke="#8e5400" stroke-width="2"/>
+<path d="M 480.0 75 V 159.0" stroke="#168678" stroke-dasharray="5 4"/>
+<path d="M 12 117.0 H 48 l -9 -5 m 9 5 l -9 5" fill="none" stroke="#1756a1" stroke-width="2"/>
+</svg>
+<text x="60" y="245">L = 0.4 м; H = 0.04 м; c = 0.028 м; α = 30°</text>
+<text x="60" y="275">Схема геометрии. Поле течения с заслонкой на этом этапе не вычисляется.</text>
+</g></svg>

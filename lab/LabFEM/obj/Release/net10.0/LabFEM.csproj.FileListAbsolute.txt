@@ -1,0 +1,14 @@
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\bin\Release\net10.0\LabFEM.exe
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\bin\Release\net10.0\LabFEM.deps.json
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\bin\Release\net10.0\LabFEM.runtimeconfig.json
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\bin\Release\net10.0\LabFEM.dll
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\bin\Release\net10.0\LabFEM.pdb
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\LabFEM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\LabFEM.AssemblyInfoInputs.cache
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\LabFEM.AssemblyInfo.cs
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\LabFEM.csproj.CoreCompileInputs.cache
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\LabFEM.dll
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\refint\LabFEM.dll
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\LabFEM.pdb
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\LabFEM.genruntimeconfig.cache
+D:\Games\4kurs\1sem\KSKR\lab\LabFEM\obj\Release\net10.0\ref\LabFEM.dll
